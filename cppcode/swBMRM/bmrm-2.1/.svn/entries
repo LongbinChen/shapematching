@@ -1,129 +1,0 @@
-10
-
-dir
-54
-http://shapematching.googlecode.com/svn/trunk/cppcode/swBMRM/bmrm-2.1
-http://shapematching.googlecode.com/svn
-
-
-
-2009-11-01T07:21:42.222362Z
-10
-lbchen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9e86e078-8887-11de-bd5f-d5dc12eeefd8
-
-model
-dir
-
-loss
-dir
-
-externalpackages
-dir
-
-TODO.txt
-file
-
-
-
-
-2013-06-21T01:03:38.000000Z
-0143f8277bea3bd69e687c75c69cb656
-2009-10-29T20:54:39.322813Z
-6
-lbchen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2655
-
-utest
-dir
-
-doc
-dir
-
-linear-bmrm
-dir
-
-README.bmrm-2.1
-file
-
-
-
-
-2013-06-21T01:03:38.000000Z
-bde9f3cd038f49eb3771fdfeeb01775e
-2009-10-29T20:54:39.322813Z
-6
-lbchen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-544
-
-data
-dir
-
-ramp-bmrm
-dir
-
-solver
-dir
-
-utilities
-dir
-
-lbfgs
-dir
-
