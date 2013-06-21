@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm
+END
+linear-bmrm-train
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/linear-bmrm-train
+END
+README.linear-bmrm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/README.linear-bmrm
+END
+linear-bmrm-train.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/linear-bmrm-train.cpp
+END
+Makefile_l1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/Makefile_l1
+END
+linear-bmrm-predict
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/linear-bmrm-predict
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/Makefile
+END
+linear-bmrm-predict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/linear-bmrm/linear-bmrm-predict.cpp
+END

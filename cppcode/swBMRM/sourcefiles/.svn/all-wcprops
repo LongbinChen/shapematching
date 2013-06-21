@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles
+END
+model
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/model
+END
+linear-bmrm-train
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/linear-bmrm-train
+END
+genericloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/genericloss.hpp
+END
+FPEG.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/FPEG.config
+END
+genericdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/genericdata.cpp
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/build.sh
+END
+res_temp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/res_temp.txt
+END
+genericdata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/genericdata.hpp
+END
+linear-bmrm-predict
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/linear-bmrm-predict
+END
+genericloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/genericloss.cpp
+END
+kimia.config
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/sourcefiles/kimia.config
+END

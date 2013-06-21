@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc
+END
+random_sparse_qid.X
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/random_sparse_qid.X
+END
+random_dense_qid.X
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/random_dense_qid.X
+END
+test_veclabelvecfeaturedc.config
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/test_veclabelvecfeaturedc.config
+END
+random_sparse.X
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/random_sparse.X
+END
+random_dense.X
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/random_dense.X
+END
+random_dense.Y
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/random_dense.Y
+END
+single_label.Y
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/single_label.Y
+END
+vector_label.Y
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/vector_label.Y
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/Makefile
+END
+test_veclabelvecfeaturedc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/utest/veclabelvecfeaturedc/test_veclabelvecfeaturedc.cpp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data
+END
+FPEG.test
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.test
+END
+kimia.trainpair
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/kimia.trainpair
+END
+kimia.testpair
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/kimia.testpair
+END
+.corner
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/.corner
+END
+kimia.train
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/kimia.train
+END
+kimia.test
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/kimia.test
+END
+FPEG.validatepairs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.validatepairs
+END
+FPEG.validate
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.validate
+END
+FPEG.trainpairs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.trainpairs
+END
+FPEG.train
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.train
+END
+FPEG.pairs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.pairs
+END
+FPEG.testpairs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/cppcode/swBMRM/Data/FPEG.testpairs
+END

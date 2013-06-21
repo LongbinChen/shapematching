@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler
+END
+sunpro_cc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/sunpro_cc.hpp
+END
+sgi_mipspro.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/sgi_mipspro.hpp
+END
+greenhills.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/greenhills.hpp
+END
+gcc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/gcc.hpp
+END
+digitalmars.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/digitalmars.hpp
+END
+compaq_cxx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/compaq_cxx.hpp
+END
+metrowerks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/metrowerks.hpp
+END
+mpw.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/mpw.hpp
+END
+kai.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/kai.hpp
+END
+visualc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/visualc.hpp
+END
+common_edg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/common_edg.hpp
+END
+vacpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/vacpp.hpp
+END
+comeau.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/comeau.hpp
+END
+intel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/intel.hpp
+END
+hp_acc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/hp_acc.hpp
+END
+borland.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/compiler/borland.hpp
+END

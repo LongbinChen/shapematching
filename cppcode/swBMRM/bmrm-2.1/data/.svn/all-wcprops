@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/cppcode/swBMRM/bmrm-2.1/data
+END
+vecfeature.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/vecfeature.hpp
+END
+sparsevec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/sparsevec.hpp
+END
+densevec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/densevec.hpp
+END
+seqfeature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/seqfeature.cpp
+END
+genericdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/cppcode/swBMRM/bmrm-2.1/data/genericdata.cpp
+END
+datafactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/datafactory.hpp
+END
+vecdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/vecdata.cpp
+END
+seqfeature.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/seqfeature.hpp
+END
+data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/data.cpp
+END
+genericdata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/cppcode/swBMRM/bmrm-2.1/data/genericdata.hpp
+END
+vecdata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/vecdata.hpp
+END
+onlinevecdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/onlinevecdata.cpp
+END
+veclabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/veclabel.cpp
+END
+data.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/data.hpp
+END
+onlinevecdata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/onlinevecdata.hpp
+END
+veclabel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/veclabel.hpp
+END
+multilabelvecdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/multilabelvecdata.cpp
+END
+varlenveclabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/varlenveclabel.cpp
+END
+multilabelvecdata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/multilabelvecdata.hpp
+END
+seqlabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/seqlabel.cpp
+END
+vecfeature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/vecfeature.cpp
+END
+varlenveclabel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/varlenveclabel.hpp
+END
+sparsevec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/sparsevec.cpp
+END
+densevec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/densevec.cpp
+END
+seqlabel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/data/seqlabel.hpp
+END

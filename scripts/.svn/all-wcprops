@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/54/trunk/scripts
+END
+exFeature.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/39/trunk/scripts/exFeature.py
+END
+CurveAngle.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/scripts/CurveAngle.py
+END
+link.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/scripts/link.py
+END
+plotShape.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/scripts/plotShape.py
+END
+exMSS.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/50/trunk/scripts/exMSS.py
+END
+MSS.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/54/trunk/scripts/MSS.py
+END
+exDAS.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/54/trunk/scripts/exDAS.py
+END
+makeDat.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/scripts/makeDat.py
+END
+CurvtAngle.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/scripts/CurvtAngle.py
+END
+CurveSC.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/scripts/CurveSC.py
+END
+extr.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/scripts/extr.py
+END
+exAngle.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/50/trunk/scripts/exAngle.py
+END
+NW.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/scripts/NW.py
+END
+SW_Img.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/18/trunk/scripts/SW_Img.py
+END
+Corner.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/scripts/Corner.py
+END
+makePair.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/scripts/makePair.py
+END
+SW.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/39/trunk/scripts/SW.py
+END
+CurveSW_Img.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/scripts/CurveSW_Img.py
+END
+readCBK.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/scripts/readCBK.py
+END
+makeFasta.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/trunk/scripts/makeFasta.py
+END
+CurvePoint.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/scripts/CurvePoint.py
+END
+SW_weight.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/scripts/SW_weight.py
+END
+exSC.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/54/trunk/scripts/exSC.py
+END
+readDat.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/scripts/readDat.py
+END
+SWMatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/scripts/SWMatch.py
+END
+CRSW_Img.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/scripts/CRSW_Img.py
+END
+CurveDAS.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/scripts/CurveDAS.py
+END
+IDSC_addhead.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/scripts/IDSC_addhead.py
+END
+makeIdx.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/54/trunk/scripts/makeIdx.py
+END
+findIdx.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/50/trunk/scripts/findIdx.py
+END
+makeSub.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/scripts/makeSub.py
+END
+pt2graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/scripts/pt2graph.py
+END

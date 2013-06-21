@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config
+END
+requires_threads.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/requires_threads.hpp
+END
+user.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/user.hpp
+END
+select_compiler_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/select_compiler_config.hpp
+END
+abi_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/abi_suffix.hpp
+END
+posix_features.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/posix_features.hpp
+END
+suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/suffix.hpp
+END
+auto_link.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/auto_link.hpp
+END
+select_stdlib_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/select_stdlib_config.hpp
+END
+select_platform_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/select_platform_config.hpp
+END
+abi_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/config/abi_prefix.hpp
+END

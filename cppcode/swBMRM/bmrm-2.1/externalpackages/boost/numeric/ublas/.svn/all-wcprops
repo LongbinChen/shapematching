@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/exception.hpp
+END
+operation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/operation.hpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/vector.hpp
+END
+functional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/functional.hpp
+END
+matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/matrix.hpp
+END
+storage.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/storage.hpp
+END
+matrix_proxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/matrix_proxy.hpp
+END
+traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/traits.hpp
+END
+io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/io.hpp
+END
+vector_sparse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/vector_sparse.hpp
+END
+fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/fwd.hpp
+END
+vector_expression.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/vector_expression.hpp
+END
+storage_sparse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/storage_sparse.hpp
+END
+matrix_sparse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/matrix_sparse.hpp
+END
+matrix_expression.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/matrix_expression.hpp
+END
+expression_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/externalpackages/boost/numeric/ublas/expression_types.hpp
+END

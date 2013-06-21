@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/cppcode/swBMRM/bmrm-2.1/loss
+END
+expmulticlassloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/expmulticlassloss.cpp
+END
+faceloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/faceloss.cpp
+END
+squaredsoftmarginloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/squaredsoftmarginloss.cpp
+END
+ordinalregressionloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/ordinalregressionloss.hpp
+END
+epsiloninsensitiveloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/epsiloninsensitiveloss.hpp
+END
+multilabelloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/multilabelloss.hpp
+END
+rankloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/rankloss.hpp
+END
+binaryclassificationloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/binaryclassificationloss.cpp
+END
+wtamulticlassloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/wtamulticlassloss.hpp
+END
+expmulticlassloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/expmulticlassloss.hpp
+END
+faceloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/faceloss.hpp
+END
+squaredsoftmarginloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/squaredsoftmarginloss.hpp
+END
+binaryclassificationloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/binaryclassificationloss.hpp
+END
+rampndcgrankloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/rampndcgrankloss.cpp
+END
+univariateregressionloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/univariateregressionloss.cpp
+END
+lap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/lap.cpp
+END
+genericloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/trunk/cppcode/swBMRM/bmrm-2.1/loss/genericloss.cpp
+END
+rampndcgrankloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/rampndcgrankloss.hpp
+END
+lossfactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/lossfactory.hpp
+END
+univariateregressionloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/univariateregressionloss.hpp
+END
+loss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/loss.cpp
+END
+lap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/lap.hpp
+END
+genericloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/cppcode/swBMRM/bmrm-2.1/loss/genericloss.hpp
+END
+loss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/loss.hpp
+END
+preferencerankloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/preferencerankloss.cpp
+END
+ramplossfactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/ramplossfactory.hpp
+END
+preferencerankloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/preferencerankloss.hpp
+END
+scalarloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/scalarloss.cpp
+END
+softmarginloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/softmarginloss.cpp
+END
+scalarloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/scalarloss.hpp
+END
+softmarginloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/softmarginloss.hpp
+END
+rocscoreloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/rocscoreloss.cpp
+END
+rocscoreloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/rocscoreloss.hpp
+END
+ndcgrankloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/ndcgrankloss.cpp
+END
+ordinalregressionloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/ordinalregressionloss.cpp
+END
+multilabelloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/multilabelloss.cpp
+END
+epsiloninsensitiveloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/epsiloninsensitiveloss.cpp
+END
+rankloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/rankloss.cpp
+END
+ndcgrankloss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/ndcgrankloss.hpp
+END
+wtamulticlassloss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/cppcode/swBMRM/bmrm-2.1/loss/wtamulticlassloss.cpp
+END
